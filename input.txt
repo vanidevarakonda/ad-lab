@@ -1,0 +1,29 @@
+What is AI?
+AI (Artificial Intelligence) is the simulation of human intelligence in machines to perform tasks like learning and problem-solving.
+
+What is DS?
+DS (Data Science) is the field that uses statistical and computational techniques to extract insights from data. 
+
+What is text similarity in computers?
+Text similarity measures how alike two pieces of text are using techniques like cosine similarity or Jaccard similarity.  
+
+What is an algorithm?
+step-by-step procedure to solve a problem.
+
+What is a data structure?
+way to store and organize data efficiently.  
+
+What is a database?
+structured collection of data for easy access and management.
+
+What is an operating system?
+Software that manages hardware and software resources.
+
+What is a compiler?
+program that converts source code into machine code.
+
+What is a programming language?
+language used to write instructions for computers. 
+
+What is machine learning? 
+A subset of AI that enables computers to learn from data.  
